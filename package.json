@@ -1,0 +1,24 @@
+{
+  "name": "decentralized-patient-data-exchange",
+  "version": "1.0.0",
+  "description": "Facilitating research through decentralized patient data with zero knowledge proofs' validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushk2001/Decentralized-Patient-Data-Exchange.git"
+  },
+  "author": "Piyush Katyayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushk2001/Decentralized-Patient-Data-Exchange/issues"
+  },
+  "homepage": "https://github.com/piyushk2001/Decentralized-Patient-Data-Exchange#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}

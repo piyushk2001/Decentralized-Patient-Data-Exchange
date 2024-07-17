@@ -1,0 +1,24 @@
+.test1 {
+    border: solid 1px red;
+}
+
+.test2 {
+    border: solid 1px green;
+}
+
+.test3 {
+    border: solid 1px blue;
+}
+
+.test4 {
+    border: solid 1px black;
+}
+
+#login-body {
+    background: url("images/Inverse_Blur_Login_Background.png") no-repeat;
+    background-size: cover;
+}
+
+#login-card {
+    width: 500px;
+}
